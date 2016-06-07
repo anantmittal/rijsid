@@ -351,17 +351,17 @@ ul#navigation li:hover {
 	text-indent: -9999px;
 	width: 51px;
 	height: 51px;
-	background: url(images/pthumb-sprite.jpg) no-repeat;
+	background: url(images/pthumb-sprite.png) no-repeat;
     float:left;
     margin-right:5px;
-    margin-left:5px;
+    margin-left:25px;
     margin-top:10px;   
 }
 
 .photo span {
 	position: absolute;
 	top: 0; left: 0; bottom: 0; right: 0;
-	background: url(images/pthumb-sprite.jpg) no-repeat;
+	background: url(images/pthumb-sprite.png) no-repeat;
 	background-position: -51px 0;
 	opacity: 0;
 	filter:alpha(opacity=0);
@@ -376,32 +376,24 @@ ul#navigation li:hover {
 }
 
 .gallery .one span {
-	background: url(images/pthumb-sprite.jpg) -51px 0;
+	background: url(images/pthumb-sprite.png) -51px 0;
 }
 .gallery .two span {
-	background: url(images/pthumb-sprite.jpg) -102px 0;
+	background: url(images/pthumb-sprite.png) -102px 0;
 }
 .gallery .three span {
-	background: url(images/pthumb-sprite.jpg) -153px 0;
+	background: url(images/pthumb-sprite.png) -153px 0;
 }
 .gallery .four span {
-	background: url(images/pthumb-sprite.jpg) -204px 0;
+	background: url(images/pthumb-sprite.png) -204px 0;
 }
 .gallery .five span {
-	background: url(images/pthumb-sprite.jpg) -255px 0;
+	background: url(images/pthumb-sprite.png) -255px 0;
 }
 .gallery .six span {
-	background: url(images/pthumb-sprite.jpg) -306px 0;
+	background: url(images/pthumb-sprite.png) -306px 0;
 }
-.gallery .seven span {
-	background: url(images/pthumb-sprite.jpg) -357px 0;
-}
-.gallery .eight span {
-	background: url(images/pthumb-sprite.jpg) -408px 0;
-}
-.gallery .nine span {
-	background: url(images/pthumb-sprite.jpg) -459px 0;
-}
+
 
 
 /* OUR STORY */
