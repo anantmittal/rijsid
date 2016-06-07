@@ -358,6 +358,10 @@ ul#navigation li:hover {
     margin-top:10px;   
 }
 
+#fancybox-title {
+    margin-left:0px!important;
+}
+
 .photo span {
 	position: absolute;
 	top: 0; left: 0; bottom: 0; right: 0;
